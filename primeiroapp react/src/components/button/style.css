@@ -1,0 +1,19 @@
+.button{
+
+    width: 100px;
+    height: 50px;
+    align-items: center;
+    background-color: rgb(255, 247, 0);
+    border:none;
+    border-radius: 8px;
+}
+
+.disabladButton{
+
+    width: 100px;
+    height: 50px;
+    align-items: center;
+    background-color: rgb(255, 0, 0);
+    border:none;
+    border-radius: 8px;
+}
